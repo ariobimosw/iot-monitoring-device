@@ -7,8 +7,8 @@ SIM800L GPRS Module, and ThingSpeak Cloud and to give precaution warning through
 All those real-time environment condition's datas from the arduino will be sent to the ThingSpeak and afterwards will be fetched by the GIS.
 
 The GIS can show real-time environment conditions from those three arduino tools, determine certain conditions by showing one of red/green/yellow colors 
-based on the real-time conditions from each arduino. However, due to the ThingSpeak Cloud that i applied is the "Free" version, the connection
+based on the real-time conditions from each arduino. However, due to the ThingSpeak Cloud that i have applied is the "Free" version, the connection
 between the Arduino tools and the Cloud has 15 seconds delay.
 
 "GIS_2.aia" file is the codeblock of the android application.
-This file must be opened from https://appinventor.mit.edu/ (import) and cannot be opened with our regular software on our device
+This file must be opened from https://appinventor.mit.edu/ (import) and cannot be opened with our regular software on our device.
